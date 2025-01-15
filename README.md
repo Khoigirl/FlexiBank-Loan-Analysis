@@ -30,6 +30,14 @@ Key findings indicate:
 2. Strong repayment behavior in high-performing regions but significant risks in states like **New York** and **Florida**.
 3. Opportunities to enhance revenue through targeted marketing, optimized interest rates, and improved borrower engagement.
 
+
+## Dashboard Visualisation Video
+
+[![Watch the video](https://img.youtube.com/vi/8rFPcRwPpl4/0.jpg)](https://youtu.be/8rFPcRwPpl4)
+
+This video provides an overview of the **FlexiBank Loan Analysis Tableau Dashboard**, detailing summary, overview, and details.
+
+
 ---
 
 ## **Key Metrics Overview**
@@ -38,6 +46,14 @@ Key findings indicate:
 - **Total Applications:** 38,576  
 - **Month-to-Date (MTD):** 4,314 (+6.91% MoM)  
 - **Previous Month-to-Date (PMTD):** 4,035  
+
+<br>
+<img width="1244" alt="Summary Dashboard" src="https://github.com/user-attachments/assets/a7830f63-612c-4203-a258-3bf1d7b6b2ca" />
+</br>
+
+
+
+
 
 **Analysis:**  
 The growth in loan applications reflects increasing customer demand, supported by effective marketing campaigns. High application volumes in **California**, **Texas**, and **Florida** highlight these regions as key drivers of growth.
