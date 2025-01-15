@@ -47,12 +47,8 @@ This video provides an overview of the **FlexiBank Loan Analysis Tableau Dashboa
 - **Month-to-Date (MTD):** 4,314 (+6.91% MoM)  
 - **Previous Month-to-Date (PMTD):** 4,035  
 
-<br>
+
 <img width="1244" alt="Summary Dashboard" src="https://github.com/user-attachments/assets/a7830f63-612c-4203-a258-3bf1d7b6b2ca" />
-</br>
-
-
-
 
 
 **Analysis:**  
