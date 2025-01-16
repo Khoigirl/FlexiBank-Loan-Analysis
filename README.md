@@ -122,6 +122,10 @@ A slight decrease in DTI suggests borrowers with healthier financial profiles, r
 1. **New York:** $2.16M in bad loans  
 2. **Florida:** $1.5M in bad loans  
 
+<img width="1033" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/af44918a-24d2-4670-be1c-90d53d236e4b" />
+
+
+
 **Analysis:**  
 **California** and **Texas** demonstrate strong performance in applications, funded amounts, and repayments. Conversely, **New York** and **Florida** present significant risks with higher volumes of bad loans.
 
@@ -137,6 +141,10 @@ A slight decrease in DTI suggests borrowers with healthier financial profiles, r
 - **Debt Consolidation:** 40% of total applications  
 - **Home Improvement:** 20%  
 - **Major Purchases:** 15%  
+
+<img width="1049" alt="Details Dahboard" src="https://github.com/user-attachments/assets/0965b8a7-e0d7-4910-9b11-ce026bc451d1" />
+
+
 
 **Analysis:**  
 Debt consolidation dominates loan purposes, reflecting customer demand for financial stability and debt management.
